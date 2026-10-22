@@ -1,0 +1,15 @@
+{
+  "covariate-expected.csv": "9ad392fe8a250d9aaac51c6deac214f5894ed661758811e81ea0151f1ba90859",
+  "covariate-input.json": "92d5e521f5e13a1bfda45be446640b17df4f360832231cabb0012a9655fa1a86",
+  "estimated-expected.csv": "f39312c9b549ef259b19b3b57455681d9a0c29c585eb09b70b65184a1d0fb61b",
+  "estimated-input.json": "4b1d524efdc7de46c92a9c084b0c7047ef4fc221dc0a9e8c0d86f6864a6989ef",
+  "generate.R": "0883f3fa0d12589158632ea700a5144c8d3c85a6cb86c10d09501bf8f162a49e",
+  "normalization.json": "010735d90135451f79fcb6223470240cb87372a570c64abc28a71c85fd1d658f",
+  "overlaps.json": "1407658669b1f80497c0a3c43932d20a750c970eafe3554756cbdd7036dd47c2",
+  "provenance.json": "5bb021ee49949f8ace4471add4b2247a9511f66f0b3c2486830279044dd775cc",
+  "regions.json": "97ff390bd01a984c9a1502878c6f9cfa7b0c5c082cf7c9a02481ec8b20629bbe",
+  "two-group-expected.csv": "c163a37e6989984bb7370d4a11b7e0c891efab0e87865ed54991c0c4bed05f8a",
+  "two-group-input.json": "ecefac3708849aaaf6a3075fbdb5e464e10f4acdf2eba071d5fe9952efab23e6",
+  "zeros-expected.csv": "8b75f8a6974e9f5b83391c4c65ece7c863e4ead1a3a6889aa7e0f7a12d78ed0a",
+  "zeros-input.json": "77b958917909ab4efd89c3ce9301cc4b1bc09cf96ab5491c4520ba4d59cc1737"
+}
